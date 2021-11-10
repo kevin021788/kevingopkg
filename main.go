@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	sum := calc.Add(10, 2)
+	sum := kevingopkg.Add(10, 2)
 	fmt.Println(sum)
 }
