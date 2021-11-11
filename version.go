@@ -1,14 +1,16 @@
 package kevingopkg
 
-const VERSION=1.1
+import "fmt"
 
-const name ="kevin gopkg"
+const VERSION = 1.1
 
-func printName()  {
+const name = "kevin gopkg"
+
+func printName() {
 	fmt.Println(name)
 }
 
-func PrintName()  {
+func PrintName() {
 	fmt.Println(name)
 }
 
