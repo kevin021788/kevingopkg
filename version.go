@@ -15,5 +15,5 @@ func PrintName() {
 }
 
 func init() {
-	fmt.Println("init")
+	fmt.Println("kevingopkg init")
 }
